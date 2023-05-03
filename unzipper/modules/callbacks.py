@@ -224,7 +224,7 @@ async def unzipper_cb(unzip_bot: Client, query: CallbackQuery):
                             if fext not in extentions_list["archive"]:
                                 await del_ongoing_task(user_id)
                                 return await query.message.edit(
-                                    "This file is NOT an archive 😐\nIf you believe it's an error, send the file to **@EDM115**"
+                                    "This file is NOT an archive 😐\nIf you believe it's an error, send the file to **@chochonder**"
                                 )
                         archive = f"{download_path}/archive_from_{user_id}{fname}"
                         location = archive
@@ -653,7 +653,7 @@ async def unzipper_cb(unzip_bot: Client, query: CallbackQuery):
             )
 
         await query.message.edit(
-            "**Successfully uploaded ✅**\n\n**Join @EDM115bots ❤️**")
+            "**Successfully uploaded ✅**\n\n**Join @chochonder ❤️**")
         await log_msg.reply(Messages.HOW_MANY_UPLOADED.format(sent_files))
         await update_uploaded(user_id, upload_count=sent_files)
         await del_ongoing_task(user_id)
