@@ -184,7 +184,7 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115**
+    PM me at **@chochonder**
     """
 
     ABOUT_TXT = """
@@ -192,10 +192,10 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 • **Language :** [Python 3.11.1](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.99](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot/tree/beta)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Source code :** [Kshitij Sharma/unzip-bot](https://kshitijsharma.com)
+• **Developer :** [Kshitij Sharma](https://kshitijsharma.com)
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by kshitij sharma👨🏻‍💻**
     """
 
     LOG_TXT = """
@@ -239,7 +239,7 @@ Select the extraction mode for that {} 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully extracted by @chochonder 🥰
     """
 
     URL_UPLOAD = """
@@ -255,7 +255,7 @@ An error happened for `{}` 😕
 **Error type :** `{}`
 **Error message :** `{}`
 
-Please report this at @EDM115 if you think this is a serious error
+Please report this at @chochonder if you think this is a serious error
     """
 
     REPORT_TEXT = """
